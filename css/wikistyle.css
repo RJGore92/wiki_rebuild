@@ -1,0 +1,21 @@
+.sidebarleft {
+  float: left;
+  width: 15%;
+  height: 700px;
+}
+
+.topbar {
+  position: absolute;
+  top: 0px;
+  left: 25%;
+  height: 60px;
+  width: 65%;
+}
+
+.mainbody {
+  position: absolute;
+  top: 75px;
+  left: 25%;
+  height: 100%;
+  width: 65%;
+}
